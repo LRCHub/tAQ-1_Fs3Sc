@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "WE LOVE YOU.",
+  "base_artist": "槇原敬之",
+  "createdAt": "2026-02-18T16:29:24.589043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Love You (12'' Version)",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/01_We_Love_You_(12''_Version)_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Love you (12\" Version)",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": false,
+      "path": "select/02_We_Love_you_(12__Version)_Orchestral_Manoeuvres_In_The_Dark.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/03_We_Love_You_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arigato We Love You",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/04_Arigato_We_Love_You_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arigato We Love You",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/05_Arigato_We_Love_You_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Because We Love You",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/06_Because_We_Love_You_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/07_We_Love_You_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stop Smoking (We Love You)",
+      "artist": "Car Seat Headrest",
+      "has_synced": true,
+      "path": "select/08_Stop_Smoking_(We_Love_You)_Car_Seat_Headrest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pops, We Love You",
+      "artist": "Diana Ross feat. Marvin Gaye, Smokey Robinson & Stevie Wonder",
+      "has_synced": false,
+      "path": "select/09_Pops,_We_Love_You_Diana_Ross_feat._Marvin_Gaye,_Smokey_Robinson_&_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pops, We Love You",
+      "artist": "Diana Ross, Marvin Gaye, Smokey Robinson, Stevie Wonder",
+      "has_synced": true,
+      "path": "select/10_Pops,_We_Love_You_Diana_Ross,_Marvin_Gaye,_Smokey_Robinson,_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/11_We_Love_You_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "Gregorian",
+      "has_synced": false,
+      "path": "select/12_We_Love_You_Gregorian.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/13_We_Love_You_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "Rolling Stones, The",
+      "has_synced": true,
+      "path": "select/14_We_Love_You_Rolling_Stones,_The.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "The Psychedelic Furs",
+      "has_synced": true,
+      "path": "select/15_We_Love_You_The_Psychedelic_Furs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "Psychedelic Furs",
+      "has_synced": true,
+      "path": "select/16_We_Love_You_Psychedelic_Furs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We Love You",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/17_We_Love_You_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE LOVE YOU.",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_WE_LOVE_YOU._槇原_敬之.txt"
+    }
+  ]
+}
